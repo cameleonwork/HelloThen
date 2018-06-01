@@ -1,10 +1,3 @@
 # HelloThen
 this is my first REAL repository
-a
-wefwfw
-fwe
-fwe
-f
-wef
-wefewr
-fgegjorigje90gue09geg
+my name is pedram and i'm gonna master Git and Android studio in this month and i no one can STOP me....so Here i am !
